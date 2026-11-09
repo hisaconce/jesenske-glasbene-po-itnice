@@ -11,7 +11,7 @@ Viri: vloga 2026 (št. 01250019438), končno poročilo 2026 iz eRazpisov, JR 202
 
 | | Vloga 2026 | Vloga 2027 |
 |---|---|---|
-| Otroci na dan / vsi / socialno ogroženi | 25 / 35 / 5 | 25 / 35 / 5 |
+| Otroci na dan / vsi / socialno ogroženi | 25 / 35 / 5 | 25 / **25** / 5 |
 | Zaprošeno od MOL | 2.380,00 € | 2.380,00 € |
 | Celotna vrednost | 4.723,63 € | 4.510,63 € |
 | Izvajalci | Blaž, Valentina, Nejc | **Manica**, Valentina, Nejc |
@@ -20,7 +20,7 @@ Viri: vloga 2026 (št. 01250019438), končno poročilo 2026 iz eRazpisov, JR 202
 | Tiskovine | MOL | lastna sredstva (promocija je za MOL neupravičen strošek) |
 | Kosila | »priprava kosil« (kuharica) | zunanji ponudnik (kot dejansko v 2026) |
 
-**Opozorilo glede 17 €:** 2.380 € ÷ (25 otrok × 5 dni) = 19,04 € na otroka na dan, kar je nad omejitvijo 17 €. Lani je bilo enako, pa je MOL odobril polni znesek, verjetno ker je računal s 35 vsemi udeleženci (35 × 5 × 17 = 2.975 €). Če želite biti varni, zmanjšajte zaprošeni znesek na **2.125 €** (25 × 5 × 17).
+**Opozorilo glede 17 €:** MOL izračuna največji znesek kot **otroci v skupini × dnevi × 17 €**. Tako je novembra 2023 pisala Eva Dolinar: »Od nas lahko dobite 1275,00 EUR«, kar je 25 × 3 dni × 17 €. Pri 25 otrocih in 5 dneh je največji znesek **2.125 €**, za 2.380 € je treba napovedati **28 otrok na dan**. V vlogi 2026 je bilo zaprošenih 2.380 € pri 25 otrocih in MOL je znesek odobril, vendar se na to ni varno zanašati. **Odločite se: 25 otrok in 2.125 € ali 28 otrok in 2.380 €.**
 
 ---
 
@@ -75,7 +75,7 @@ Prijava poteka prek spletnega obrazca na www.conce.si, kjer starši navedejo pod
 ```
 *(951 znakov)*
 
-**7.3 Število vseh udeležencev:** `35`
+**7.3 Število vseh udeležencev:** `25` *(pri jesenskih počitnicah je število vseh udeležencev enako velikosti skupine. Tako je MOL (Eva Dolinar) pojasnila novembra 2023.)*
 **7.4 Število udeležencev na dan varstva:** `25`
 **7.5 Število otrok iz socialno ogroženih družin na dan:** `5`
 
@@ -336,7 +336,7 @@ Prispevke staršev (10 € na dan) bomo porabili za pokritje stroškov hrane (ko
 - Ovojnica: »NE ODPIRAJ – VLOGA: JAVNI RAZPIS ZA SOFINANCIRANJE PROGRAMOV IN PROJEKTOV V MOL V LETU 2027 S PODROČJA PODPORNIH STORITEV V VZGOJI IN IZOBRAŽEVANJU TER PROSTEM ČASU OTROK – C) Programi počitniškega varstva otrok in mladostnikov z aktivnostmi v času šolskih počitnic«
 
 ## Odprte točke pred oddajo
-1. Zaprošeni znesek 2.380 € (kot lani) ali varnejših 2.125 €.
+1. Zaprošeni znesek: 25 otrok in 2.125 € ali 28 otrok in 2.380 €.
 2. Manica: stopnja in vrsta izobrazbe, ali dela kot s.p.
 3. Ali dodate animatorje (Jakob, Martin, Ana) med izvajalce. Po razpisu 2027 smejo delati samo izvajalci iz vloge.
 4. Ponudnik kosil (Interspar Vič?).
