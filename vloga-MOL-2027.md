@@ -122,9 +122,9 @@ Varstvo traja od 7:00 do 17:00. Od 7:00 do 8:30 sta prisotni 2 izvajalki (Manica
 | Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
 | 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
 | 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Spoznavne ritmične igre, predstavitev glasbil, učenje himne po skupinah. | 3 | 3 | 48,00 |
+| 11:30–12:30 Čas za zgodbo (prvi prizor) in spoznavne igre. | 3 | 3 | 48,00 |
 | 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
 | 13:30–15:00 Izdelava zapestnic in obeskov, izdelava tablice zadolžitev. | 3 | 4,5 | 72,00 |
 | 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
@@ -135,7 +135,7 @@ Varstvo traja od 7:00 do 17:00. Od 7:00 do 8:30 sta prisotni 2 izvajalki (Manica
 | Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
 | 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), čas za zgodbo in glasbeni blok. | 3 | 4,5 | 72,00 |
 | 10:00–15:00 Pohod na Rožnik s sadno malico in kosilom iz nahrbtnika: glasbene igre na poti, delavnica »prisluhni naravi« (zvoki okolja → ritmični vzorci), izdelava papirnatih letal. | 3 | 15 | 240,00 |
 | 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
 | 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
@@ -145,9 +145,9 @@ Varstvo traja od 7:00 do 17:00. Od 7:00 do 8:30 sta prisotni 2 izvajalki (Manica
 | Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
 | 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
 | 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Otroci prinesejo svoja glasbila: vaja po skupinah in kot orkester. | 3 | 3 | 48,00 |
+| 11:30–12:30 Čas za zgodbo in glasbeni blok z lastnimi glasbili. | 3 | 3 | 48,00 |
 | 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
 | 13:30–15:00 Body percussion in izdelava preprostih glasbil iz odpadnih materialov. | 3 | 4,5 | 72,00 |
 | 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
@@ -158,9 +158,9 @@ Varstvo traja od 7:00 do 17:00. Od 7:00 do 8:30 sta prisotni 2 izvajalki (Manica
 | Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
 | 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
 | 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Igranje na glavnike, ponovitev točk za nastop. | 3 | 3 | 48,00 |
+| 11:30–12:30 Čas za zgodbo in glasbeni blok. | 3 | 3 | 48,00 |
 | 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
 | 13:30–15:00 Izdelava rekvizitov za nastop (kitke, metuljčki, klobučki) in vabil za starše. | 3 | 4,5 | 72,00 |
 | 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
@@ -171,9 +171,9 @@ Varstvo traja od 7:00 do 17:00. Od 7:00 do 8:30 sta prisotni 2 izvajalki (Manica
 | Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
 | 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
 | 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Generalka: ponovitev vseh pevskih, instrumentalnih in plesnih točk, učenje v dvojicah. | 3 | 3 | 48,00 |
+| 11:30–12:30 Čas za zgodbo (zadnji prizor) in glasbeni blok – priprava na nastop. | 3 | 3 | 48,00 |
 | 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
 | 13:30–15:00 Kuharska delavnica (sladica za pogostitev) in okrasitev prostora. | 3 | 4,5 | 72,00 |
 | 15:00–16:00 Malica, zaključna refleksija, zadnje priprave. | 3 | 3 | 48,00 |
