@@ -1,18 +1,26 @@
 # Vloga MOL 2027 – Jesenske počitnice na Viču (področje C)
 
 Osnutek za vnos v e-razpise MOL (erazpisisubvencije.ljubljana.si), korak »I.–IV. DEL«.
-Pripravljeno na podlagi vloge 2026 (št. 01250019438), besedila JR 2027, poročila 2026 in tabele *🍁 Jesen 26*.
+**Program je enak tistemu, ki smo ga izvedli v 2026, finance pa so podobne vlogi 2026** (25 otrok na dan, 35 vseh, MOL 2.380 €).
+Viri: vloga 2026 (št. 01250019438), končno poročilo 2026 iz eRazpisov, JR 2027, tabela *🍁 Jesen 26*, »OPISI članov Čonce ekipe«.
 **Rok oddaje: 12. 11. 2026** (elektronsko + priporočeno po pošti isti dan).
 
 > **[PREVERI]** = podatek je treba potrditi pred oddajo.
 
-## Ključne odločitve (preberi najprej)
+## Kaj je enako kot lani in kaj drugače
 
-1. **Število otrok:** 20 na dan (spodnja meja skupine 20–28), 30 vseh. Lani je bilo povprečno 12 na dan, zato 25 ne bi bilo realno.
-2. **Zaprošeni znesek MOL: 1.700 €** = 20 otrok × 5 dni × 17 € (omejitev 17 €/otroka/dan velja že od leta 2024). Za 2.380 € bi potrebovali 28 otrok na dan. Pri 25 otrocih bi bil znesek 2.125 €.
-3. **Ekipa:** Manica Slapšak (namesto Blaža), Valentina Reberšak, Nejc Podobnik. Po novem razpisu (III/8) smejo delati samo izvajalci iz vloge, zato dodajte še Jakoba, Martina ali Ano, če bodo pomagali. Dodatne osebe kasneje zahtevajo pisno soglasje MOL.
-4. **Iz sredstev MOL je krito samo neposredno delo z otroki in administracija.** Priprava, promocija in tiskovine so krite iz lastnih sredstev (neupravičeni stroški za MOL – tako je bilo že v razpisu 2026, lani pa smo tiskovine vseeno pripisali MOL).
-5. **Ciljna skupina:** razpis govori o otrocih »od zaključenega 1. do zaključenega 5. razreda«. Lani so bili vključeni tudi prvošolci. Pri ge. Despot preverite, ali so prvošolci jeseni upravičeni.
+| | Vloga 2026 | Vloga 2027 |
+|---|---|---|
+| Otroci na dan / vsi / socialno ogroženi | 25 / 35 / 5 | 25 / 35 / 5 |
+| Zaprošeno od MOL | 2.380,00 € | 2.380,00 € |
+| Celotna vrednost | 4.723,63 € | 4.510,63 € |
+| Izvajalci | Blaž, Valentina, Nejc | **Manica**, Valentina, Nejc |
+| Ure neposrednega dela | 145 | 142,5 (7:00–17:00) |
+| Kaj krije MOL | delo 2.115,10 + tiskovine 150 + kosila 100 + admin. 14,90 | **samo neposredno delo 2.365,10 + admin. 14,90** |
+| Tiskovine | MOL | lastna sredstva (promocija je za MOL neupravičen strošek) |
+| Kosila | »priprava kosil« (kuharica) | zunanji ponudnik (kot dejansko v 2026) |
+
+**Opozorilo glede 17 €:** 2.380 € ÷ (25 otrok × 5 dni) = 19,04 € na otroka na dan, kar je nad omejitvijo 17 €. Lani je bilo enako, pa je MOL odobril polni znesek, verjetno ker je računal s 35 vsemi udeleženci (35 × 5 × 17 = 2.975 €). Če želite biti varni, zmanjšajte zaprošeni znesek na **2.125 €** (25 × 5 × 17).
 
 ---
 
@@ -49,11 +57,11 @@ Metode: izkustveno učenje in učenje skozi igro, demonstracija in posnemanje, s
 
 **3. Časovni obseg:** ☑ Jesenskih počitnic (25. 10. 2027 – 29. 10. 2027)
 
-**5. Lokacija:** ČETRTNA SKUPNOST: `Vič` · Naslov izvajanja: `Tržaška cesta 85, 1000 Ljubljana (Antonov dom)`
+**5. Lokacija:** ČETRTNA SKUPNOST: `Vič` · Naslov izvajanja programa: `Tržaška c. 85`
 
 **6. Sodelovanje z javnimi zavodi:** ☑ NE
 
-**7.1 Starostna struktura:** `7–11 let (od 1. do 5. razreda OŠ)` [PREVERI prvošolce]
+**7.1 Starostna struktura ciljne skupine:** `7-11 let`
 
 **7.2 Kdo so otroci in kako jih vabite** (max 1500):
 ```text
@@ -67,9 +75,9 @@ Prijava poteka prek spletnega obrazca na www.conce.si, kjer starši navedejo pod
 ```
 *(951 znakov)*
 
-**7.3 Število vseh udeležencev:** `30`
-**7.4 Število udeležencev na dan varstva:** `20`
-**7.5 Število otrok iz socialno ogroženih družin na dan:** `2`
+**7.3 Število vseh udeležencev:** `35`
+**7.4 Število udeležencev na dan varstva:** `25`
+**7.5 Število otrok iz socialno ogroženih družin na dan:** `5`
 
 **Proces vključevanja socialno ogroženih** (max 1500):
 ```text
@@ -95,102 +103,101 @@ Brezplačna mesta bodo jasno navedena na vseh promocijskih kanalih in v prijavne
 
 **1.2 Kvantitativni cilji** (max 1500):
 ```text
-- Vsaj 80 % otrok bo na zaključnem nastopu izvedlo svoj del (petje, glasbilo ali ritmična točka).
-- Vsak dan bodo otroci vsaj 60 minut gibali na prostem.
-- Vsaj 90 % staršev, ki izpolnijo anketo, bo s programom zadovoljnih.
-- Vsaj 60 % staršev se bo želelo vpisati v e-novičnik.
-- Vsaj 30 % otrok bo v mesecu po programu več muziciralo (preverimo z drugo anketo).
-- Vsaj 2 brezplačni mesti na dan za otroke iz socialno ogroženih družin.
+- Vsaj 80 % otrok bo po koncu programa znalo zaigrati preprosto skladbo na novo glasbilo oz. izvesti svoj del na zaključnem nastopu.
+- Zabeležili bomo vsaj 90 % zadovoljnih odzivov staršev.
+- Vsaj 60 % staršev bo izkazalo interes za vključitev v e-novičnik za obveščanje o podobnih priložnostih.
+- Vsaj 30 % udeležencev bo v mesecu po koncu programa (november) povečalo količino muziciranja (muziciranje v družini, igranje glasbila, poslušanje glasbe, ples ob glasbi).
+- Otroci bodo vsak dan vsaj 60 minut aktivni na prostem.
 ```
-*(436 znakov)*
+*(525 znakov)*
 
 ### 2.1 Neposredno delo z udeleženci
 
 TEDEN: Od `25.10.2027` Do `29.10.2027` · Program bo za vse skupine enak: ☑ Da
 
-Vsak dan od 7:00 do 17:00 (10 ur varstva). Zjutraj 7:00–8:30 sta prisotna 2 izvajalca (Manica, Valentina), od 8:30 do 17:00 so prisotni vsi 3.
+Varstvo traja od 7:00 do 17:00. Od 7:00 do 8:30 sta prisotni 2 izvajalki (Manica, Valentina), od 8:30 do 17:00 so prisotni vsi 3.
 
 **Ponedeljek – »Himna« (spoznavanje)**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (14 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 42,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 63,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 63,00 |
-| 11:30–12:30 Spoznavne ritmične igre, predstavitev glasbil, učenje himne po skupinah. | 3 | 3 | 42,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 42,00 |
-| 13:30–15:00 Izdelava zapestnic in obeskov, izdelava tablice zadolžitev. | 3 | 4,5 | 63,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 42,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 42,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
+| 11:30–12:30 Spoznavne ritmične igre, predstavitev glasbil, učenje himne po skupinah. | 3 | 3 | 48,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
+| 13:30–15:00 Izdelava zapestnic in obeskov, izdelava tablice zadolžitev. | 3 | 4,5 | 72,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
 
 **Torek – »Pohodniška dogodivščina«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (14 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 42,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 63,00 |
-| 10:00–15:00 Pohod na Rožnik s sadno malico in kosilom iz nahrbtnika: glasbene igre na poti, delavnica »prisluhni naravi« (zvoki okolja → ritmični vzorci), izdelava papirnatih letal. | 3 | 15 | 210,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 42,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 42,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 10:00–15:00 Pohod na Rožnik s sadno malico in kosilom iz nahrbtnika: glasbene igre na poti, delavnica »prisluhni naravi« (zvoki okolja → ritmični vzorci), izdelava papirnatih letal. | 3 | 15 | 240,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
 
 **Sreda – »Orkestrski dan«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (14 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 42,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 63,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 63,00 |
-| 11:30–12:30 Otroci prinesejo svoja glasbila: vaja po skupinah in kot orkester. | 3 | 3 | 42,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 42,00 |
-| 13:30–15:00 Body percussion in izdelava preprostih glasbil iz odpadnih materialov. | 3 | 4,5 | 63,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 42,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 42,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
+| 11:30–12:30 Otroci prinesejo svoja glasbila: vaja po skupinah in kot orkester. | 3 | 3 | 48,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
+| 13:30–15:00 Body percussion in izdelava preprostih glasbil iz odpadnih materialov. | 3 | 4,5 | 72,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
 
 **Četrtek – »Znaš igrati na glavnik?«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (14 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 42,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 63,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 63,00 |
-| 11:30–12:30 Igranje na glavnike, ponovitev točk za nastop. | 3 | 3 | 42,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 42,00 |
-| 13:30–15:00 Izdelava rekvizitov za nastop (kitke, metuljčki, klobučki) in vabil za starše. | 3 | 4,5 | 63,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 42,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 42,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
+| 11:30–12:30 Igranje na glavnike, ponovitev točk za nastop. | 3 | 3 | 48,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
+| 13:30–15:00 Izdelava rekvizitov za nastop (kitke, metuljčki, klobučki) in vabil za starše. | 3 | 4,5 | 72,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
 
 **Petek – »Nastopamo!«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (14 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 42,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 63,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 63,00 |
-| 11:30–12:30 Generalka: ponovitev vseh pevskih, instrumentalnih in plesnih točk, učenje v dvojicah. | 3 | 3 | 42,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 42,00 |
-| 13:30–15:00 Kuharska delavnica (sladica za pogostitev) in okrasitev prostora. | 3 | 4,5 | 63,00 |
-| 15:00–16:00 Malica, zaključna refleksija, zadnje priprave. | 3 | 3 | 42,00 |
-| 16:00–17:00 Zaključni nastop za starše, skupinska fotografija, pogostitev. | 3 | 3 | 42,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), igrivo upevanje, petje himne in pesmi za nastop. | 3 | 4,5 | 72,00 |
+| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
+| 11:30–12:30 Generalka: ponovitev vseh pevskih, instrumentalnih in plesnih točk, učenje v dvojicah. | 3 | 3 | 48,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
+| 13:30–15:00 Kuharska delavnica (sladica za pogostitev) in okrasitev prostora. | 3 | 4,5 | 72,00 |
+| 15:00–16:00 Malica, zaključna refleksija, zadnje priprave. | 3 | 3 | 48,00 |
+| 16:00–17:00 Zaključni nastop za starše, skupinska fotografija, pogostitev. | 3 | 3 | 48,00 |
 
-**Skupaj neposredno delo: 142,5 ure · 1.995,00 €**
+**Skupaj neposredno delo: 142,5 ure · 2.280,00 €**
 
 ### 3. Izvajalci programa
 
 | | Manica Slapšak | Valentina Reberšak | Nejc Podobnik |
 |---|---|---|---|
-| Strokovna usposobljenost | Glasbenica (violistka), zborovodkinja, vodja animatorka | Koordinatorka, organizatorka dogodkov za otroke in mlade | Voditelj glasbenih delavnic in učitelj glasbe |
-| Stopnja izobrazbe | [PREVERI – V. ali VI.] | VI. | VII. (2. bolonjska stopnja) |
-| Vrsta izobrazbe | [PREVERI – npr. gimnazijski maturant / študentka viole, AG Ljubljana] | Diplomirana organizatorka kulturnega turizma | Magister muzikologije |
-| Kje redno zaposlen | / (študentka) | s.p. | s.p. |
-| Način dela | Delo po pogodbi [PREVERI: podjemna/avtorska/študentsko delo] | s.p. | s.p. |
-| Priprava, koordinacija/organizacija | 12 € × 10 h = 120,00 | 12 € × 15 h = 180,00 | 12 € × 5 h = 60,00 |
-| Neposredna izvedba | 14 € × 50 h = 700,00 | 14 € × 50 h = 700,00 | 14 € × 42,5 h = 595,00 |
-| Vrednotenje | 12 € × 2 h = 24,00 | 12 € × 3 h = 36,00 | 12 € × 2 h = 24,00 |
-| **Skupaj** | **62 h · 844,00** | **68 h · 916,00** | **49,5 h · 679,00** |
+| Strokovna usposobljenost | Glasbenica (violistka), zborovodkinja, vodja animatorka | Koordinatorka | Voditelj glasbenih delavnic in učitelj glasbe |
+| Stopnja izobrazbe | [PREVERI] | VI. | VII. (2. bolonjska stopnja) |
+| Vrsta izobrazbe | [PREVERI – študij viole, Akademija za glasbo v Ljubljani] | Diplomirana organizatorka kulturnega turizma | Magister muzikologije |
+| Naziv zavoda, kjer je redno zaposlen | s.p. [PREVERI] | s.p. | s.p. |
+| Način dela | s.p. (v poročilu 2026 je Manica navedena kot s.p.) | s.p. | s.p. |
+| Priprava, koordinacija/organizacija | 13 € × 10 h = 130,00 | 13 € × 20 h = 260,00 | 13 € × 19 h = 247,00 |
+| Neposredna izvedba | 16 € × 50 h = 800,00 | 16 € × 50 h = 800,00 | 16 € × 42,5 h = 680,00 |
+| Vrednotenje | 13 € × 2 h = 26,00 | 13 € × 3 h = 39,00 | 13 € × 3 h = 39,00 |
+| **Skupaj** | **62 h · 956,00** | **73 h · 1.099,00** | **64,5 h · 966,00** |
 
-Povzetek: neposredna izvedba 142,5 h / 1.995,00 € (100 %) · priprava, koordinacija in vrednotenje 37 h / 444,00 € (**26 %**) · **skupaj 179,5 h / 2.439,00 €**.
+Povzetek: neposredna izvedba 142,5 h / 2.280,00 € (100 %) · priprava, organizacija/koordinacija in vrednotenje 57 h / 741,00 € (**40 %**) · **skupaj 199,5 h / 3.021,00 €**.
 
-Urne postavke so bruto zneski. Za primerjavo: lani je bila postavka od 13 do 18 €, v letu 2026 je Manica dejansko prejemala 12,60 €. Največ dovoljeno je 20 €.
+Urne postavke so iste kot lani (13 € in 16 €); največ dovoljeno je 20 €.
 
 **3.4 Reference izvajalcev** (max 1500):
 ```text
@@ -203,10 +210,10 @@ Nejc Podobnik (glasbeni pedagog): vodja Glasbene hiše Čonce, kjer [od leta PRE
 *(1173 znakov)*
 
 ### 4. Prostovoljno delo
-4.1 `0` · 4.2 neposredno `0` / priprava `0` [Če bodo sodelovali prostovoljci (v 2025 sta bila 2), jih vpišite tukaj in jih navedite tudi med izvajalci.]
+4.1 `0` · 4.2 neposredno `0` / priprava `0`
 
 ### 5. Obiski zunanjih institucij (max 1500)
-Opomba: razpis 2027 (IV.C.10) zahteva obiske institucij samo za poletni program, obrazec pa jih sprašuje. Zato vpišemo dva obiska.
+Lani ste vpisali »/«. Razpis 2027 zahteva obiske samo za poletni program, zato lahko vpišete »/« tudi letos ali spodnje besedilo.
 ```text
 Program poteka v bližini Rožnika in Tivolija. V tednu bomo obiskali:
 1. Mestno knjižnico Ljubljana, Knjižnico Prežihov Voranc (Tržaška 47a): ogled knjižnice in glasbeno-pravljična ura [PREVERI dogovor].
@@ -241,74 +248,76 @@ Tedenski jedilnik bo objavljen na vidnem mestu v prostoru in na www.conce.si pre
 
 ## III. DEL: FINANČNA KONSTRUKCIJA
 
-**1.1 Celotna vrednost programa:** `3.414,00` · **1.2 Zaprošena vrednost:** `1.700,00`
+**1.1 Celotna vrednost programa:** `4.510,63` · **1.2 Zaprošena vrednost:** `2.380,00`
 
 ### 2.1 Materialni stroški
 
 | Materialni strošek | MOL | Lastna | Ostali | Udeleženci | Skupaj |
 |---|---|---|---|---|---|
-| Hrana (kosila zunanjega ponudnika, 2 malici, pijača; 20 otrok × 5 dni) | 0,00 | 0,00 | 0,00 | 800,00 | 800,00 |
-| Ustvarjalni material za delavnice in nastop | 0,00 | 0,00 | 0,00 | 100,00 | 100,00 |
+| Hrana (kosila zunanjega ponudnika, 2 malici, pijača) | 0,00 | 0,00 | 0,00 | 850,00 | 850,00 |
+| Glasbila in ustvarjalni material za delavnice | 0,00 | 250,00 | 0,00 | 150,00 | 400,00 |
+| Tiskovine (plakati, letaki) | 0,00 | 150,00 | 0,00 | 0,00 | 150,00 |
 | Čistila in higienski material | 0,00 | 30,00 | 0,00 | 0,00 | 30,00 |
-| Tiskovine (plakati, letaki) | 0,00 | 30,00 | 0,00 | 0,00 | 30,00 |
-| **Skupaj** | **0,00** | **60,00** | **0,00** | **900,00** | **960,00** |
+| **Skupaj** | **0,00** | **430,00** | **0,00** | **1.000,00** | **1.430,00** |
 
 ### 2.2 Ostali stroški
-Brez vnosa. Če Antonov dom zaračuna uporabo prostora, ga dodajte tukaj (upravičeno do 20 % zaprošenega zneska, torej do 340 €).
+Brez vnosa. Lani je bila tu »priprava kosil«, letos so kosila vključena med hrano.
 
 ### 2.3 Potni stroški
-Brez vnosa (0,00).
+
+| Potni strošek | MOL | Lastna | Ostali | Udeleženci | Skupaj | Pojasnilo |
+|---|---|---|---|---|---|---|
+| Prevoz na delo (Nejc, Valentina) | 0,00 | 44,73 | 0,00 | 0,00 | 44,73 | Prevoz izvajalcev na lokacijo varstva |
 
 ### 2.4 Administrativni stroški
 
 | Navedite | MOL | Lastna | Ostali | Udeleženci | Skupaj |
 |---|---|---|---|---|---|
-| Spletni program za sprejem prijav in plačil | 10,00 | 0,00 | 0,00 | 0,00 | 10,00 |
-| Poštnina za razpisno dokumentacijo | 5,00 | 0,00 | 0,00 | 0,00 | 5,00 |
-| **Skupaj** | **15,00** | **0,00** | **0,00** | **0,00** | **15,00** |
+| Spletni program za sprejem prijav | 10,00 | 0,00 | 0,00 | 0,00 | 10,00 |
+| Pošta za razpisno dokumentacijo | 4,90 | 0,00 | 0,00 | 0,00 | 4,90 |
+| **Skupaj** | **14,90** | **0,00** | **0,00** | **0,00** | **14,90** |
 
-Delež administrativnih stroškov MOL glede na zaprošeno vrednost: **0,88 %** (dovoljeno do 5 %).
+Delež administrativnih stroškov MOL: **0,63 %** (enako kot lani).
 
 ### 2.5 Stroški dela
 
 | | MOL | Lastna | Ostali | Udeleženci | Skupaj |
 |---|---|---|---|---|---|
-| Delo po pogodbi (Manica) [PREVERI vrsto] | 700,00 | 144,00 | 0,00 | 0,00 | 844,00 |
-| S. P. (Valentina, Nejc) | 985,00 | 610,00 | 0,00 | 0,00 | 1.595,00 |
-| **Skupaj** | **1.685,00** | **754,00** | **0,00** | **0,00** | **2.439,00** |
+| S. P. (Manica, Valentina, Nejc) | 2.365,10 | 655,90 | 0,00 | 0,00 | 3.021,00 |
+| **Skupaj** | **2.365,10** | **655,90** | **0,00** | **0,00** | **3.021,00** |
 
-Če Manica dela kot študentka (prek študentskega servisa), prestavite njeno vrstico v »Študentsko delo«.
+Sredstva MOL (2.365,10 €) krijejo neposredno delo z otroki (2.280,00 €) in del koordinacije (85,10 €). Priprava programa in vrednotenje sta krita iz lastnih sredstev, ker je »priprava programa« za MOL neupravičen strošek.
 
 ### Odhodki skupaj (kontrola)
 
 | | Znesek | Delež |
 |---|---|---|
-| Materialni stroški | 960,00 | 28,12 % |
+| Materialni stroški | 1.430,00 | 31,70 % |
 | Ostali stroški | 0,00 | 0 % |
-| Potni stroški | 0,00 | 0 % |
-| Administrativni stroški | 15,00 | 0,44 % |
-| Stroški dela | 2.439,00 | 71,44 % |
-| **Vsi stroški** | **3.414,00** | 100 % |
+| Potni stroški | 44,73 | 0,99 % |
+| Administrativni stroški | 14,90 | 0,33 % |
+| Stroški dela | 3.021,00 | 66,98 % |
+| **Vsi stroški** | **4.510,63** | 100 % |
 
 ### 3. Prihodki (kontrola)
 
 | | Znesek | Delež |
 |---|---|---|
-| MOL | 1.700,00 | 49,80 % (≤ 80 % ✔) |
-| Lastna sredstva | 814,00 | 23,84 % |
-| Prispevki udeležencev | 900,00 | 26,36 % (18 plačljivih otrok × 5 dni × 10 €) |
+| MOL | 2.380,00 | 52,76 % (≤ 80 % ✔) |
+| Lastna sredstva | 1.130,63 | 25,07 % |
+| Prispevki udeležencev | 1.000,00 | 22,17 % |
 | Ostali sofinancerji | 0,00 | 0 % |
-| **Skupaj** | **3.414,00** | 100 % |
+| **Skupaj** | **4.510,63** | 100 % |
 
-Preverjanje: MOL 1.700 € = 20 otrok × 5 dni × 17 € ✔ · MOL krije samo neposredno delo (1.685 €) in administracijo (15 €) ✔.
+Lastna sredstva: delo 655,90 + material 430,00 + potni 44,73 = 1.130,63 ✔.
 
 **Višina prispevka na dan:** `10,00`
 
 **Obrazložitev:**
 ```text
-Prispevek staršev (10 € na dan) pokrije stroške prehrane (kosilo, dve malici, pijača) in ustvarjalnega materiala. Za otroke iz socialno ogroženih družin je program brezplačen.
+Prispevke staršev (10 € na dan) bomo porabili za pokritje stroškov hrane (kosilo zunanjega ponudnika, dve malici, pijača) ter ustvarjalnega materiala in pripomočkov za delavnice. Za otroke iz socialno ogroženih družin je program brezplačen.
 ```
-*(175 znakov)*
+*(240 znakov)*
 
 **Način vračila prispevka:**
 ```text
@@ -321,18 +330,14 @@ Prispevek staršev (10 € na dan) pokrije stroške prehrane (kosilo, dve malici
 ---
 
 ## IV. DEL: PRILOGE
-
-- ☑ Kopija Statuta društva: na Drivu je »Statut drustva _posodobljen.pdf« (statut z dopolnitvijo 7. 10. 2022).
-- Soglasja javnih zavodov niso potrebna (program ne poteka v javnem zavodu).
-- Pooblastilo ni potrebno, če vlogo podpiše zastopnik Nejc Podobnik.
-- Vlogo podpišeta vodja projekta in odgovorna oseba, ovojnica mora biti označena: »NE ODPIRAJ – VLOGA: JAVNI RAZPIS … 2027 … – C) Programi počitniškega varstva otrok in mladostnikov z aktivnostmi v času šolskih počitnic«.
+- ☑ Kopija Statuta društva (lani naložen »Statut_drustva__C__once.pdf«; na Drivu je »Statut drustva _posodobljen.pdf«).
+- Soglasja javnih zavodov niso potrebna.
+- Pooblastilo ni potrebno, če podpiše zastopnik Nejc Podobnik.
+- Ovojnica: »NE ODPIRAJ – VLOGA: JAVNI RAZPIS ZA SOFINANCIRANJE PROGRAMOV IN PROJEKTOV V MOL V LETU 2027 S PODROČJA PODPORNIH STORITEV V VZGOJI IN IZOBRAŽEVANJU TER PROSTEM ČASU OTROK – C) Programi počitniškega varstva otrok in mladostnikov z aktivnostmi v času šolskih počitnic«
 
 ## Odprte točke pred oddajo
-
-1. Število otrok na dan (20) in zaprošeni znesek (1.700 €): potrdite.
-2. Manica: stopnja in vrsta izobrazbe, način dela (pogodba ali študentsko delo), leta vodenja zborov.
-3. Nejc: od katerega leta poučuje v Glasbeni hiši Čonce.
-4. Ali boste dodali animatorje (Jakob, Martin, Ana) med izvajalce.
-5. Ponudnik kosil (Interspar Vič?) in morebitni strošek prostora v Antonovem domu.
-6. Dogovor s Knjižnico Prežihov Voranc.
-7. Upravičenost prvošolcev.
+1. Zaprošeni znesek 2.380 € (kot lani) ali varnejših 2.125 €.
+2. Manica: stopnja in vrsta izobrazbe, ali dela kot s.p.
+3. Ali dodate animatorje (Jakob, Martin, Ana) med izvajalce. Po razpisu 2027 smejo delati samo izvajalci iz vloge.
+4. Ponudnik kosil (Interspar Vič?).
+5. Upravičenost prvošolcev (razpis 2027: »od zaključenega 1. razreda«).
