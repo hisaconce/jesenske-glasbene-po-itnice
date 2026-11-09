@@ -9,9 +9,9 @@ Pripravljeno na podlagi vloge 2026 (št. 01250019438), besedila JR 2027, poroči
 ## Ključne odločitve (preberi najprej)
 
 1. **Število otrok:** 20 na dan (spodnja meja skupine 20–28), 30 vseh. Lani je bilo povprečno 12 na dan, zato 25 ne bi bilo realno.
-2. **Zaprošeni znesek MOL: 1.700 €** = 20 otrok × 5 dni × 17 € (nova omejitev 17 €/otroka/dan). Za 2.380 € bi potrebovali 28 otrok na dan. Pri 25 otrocih bi bil znesek 2.125 €.
+2. **Zaprošeni znesek MOL: 1.700 €** = 20 otrok × 5 dni × 17 € (omejitev 17 €/otroka/dan velja že od leta 2024). Za 2.380 € bi potrebovali 28 otrok na dan. Pri 25 otrocih bi bil znesek 2.125 €.
 3. **Ekipa:** Manica Slapšak (namesto Blaža), Valentina Reberšak, Nejc Podobnik. Po novem razpisu (III/8) smejo delati samo izvajalci iz vloge, zato dodajte še Jakoba, Martina ali Ano, če bodo pomagali. Dodatne osebe kasneje zahtevajo pisno soglasje MOL.
-4. **Iz sredstev MOL je krito samo neposredno delo z otroki in administracija.** Priprava, promocija in tiskovine so krite iz lastnih sredstev (po novem neupravičeni stroški za MOL).
+4. **Iz sredstev MOL je krito samo neposredno delo z otroki in administracija.** Priprava, promocija in tiskovine so krite iz lastnih sredstev (neupravičeni stroški za MOL – tako je bilo že v razpisu 2026, lani pa smo tiskovine vseeno pripisali MOL).
 5. **Ciljna skupina:** razpis govori o otrocih »od zaključenega 1. do zaključenega 5. razreda«. Lani so bili vključeni tudi prvošolci. Pri ge. Despot preverite, ali so prvošolci jeseni upravičeni.
 
 ---
