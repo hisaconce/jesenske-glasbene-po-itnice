@@ -71,7 +71,16 @@ Dogovor je sestavljen v dveh enakih izvodih, od katerih prejme vsaka stranka ene
 
 V Ljubljani, dne ____________
 
-| Za organizacijo | Prostovoljec |
-|---|---|
-| Nejc Podobnik, zastopnik | ______________________ |
-| Podpis: ______________ | Podpis: ______________ |
+| Za organizacijo | Prostovoljec | Starš oz. zakoniti zastopnik prostovoljca |
+|---|---|---|
+| Nejc Podobnik, zastopnik | ______________________ | ______________________ |
+| | | (ime in priimek) |
+| Podpis: ______________ | Podpis: ______________ | Podpis: ______________ |
+
+## Soglasje starša oz. zakonitega zastopnika
+
+Podpisani/-a ______________________ kot starš oz. zakoniti zastopnik mladoletnega prostovoljca ______________________ soglašam, da moj otrok opravlja prostovoljsko delo v programu Jesenske počitnice na Viču 2027 pod pogoji iz tega dogovora.
+
+Kraj in datum: ______________________
+
+Podpis starša oz. zakonitega zastopnika: ______________________
