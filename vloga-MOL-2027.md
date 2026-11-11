@@ -115,7 +115,7 @@ Brezplačna mesta bodo jasno navedena na vseh promocijskih kanalih in v prijavne
 
 TEDEN: Od `25.10.2027` Do `29.10.2027` · Program bo za vse skupine enak: ☑ Da
 
-Varstvo traja od 7:00 do 17:00 (v petek do 18:00). Od 7:00 do 8:30 sta prisotna 2 izvajalca (Valentina, Nejc), od 8:30 dalje vsi 3 (pridruži se Manica). Prostovoljec Martin je prisoten 7 ur na dan, skupaj 35 ur: v ponedeljek dopoldne (7:00–14:00), v torek, sredo in četrtek 10:00–17:00 (v torek cel pohod), v petek popoldne (11:00–18:00).
+Varstvo traja od 7:00 do 17:00 (v petek do 18:00). Od 7:00 do 8:30 sta prisotna 2 izvajalca (Valentina, Nejc), od 8:30 dalje vsi 3 (pridruži se Manica). Prostovoljec Martin je prisoten 7 ur na dan, skupaj 35 ur: v ponedeljek dopoldne (7:00–14:00), v torek 8:30–15:30 (cel pohod), v sredo in četrtek 10:00–17:00, v petek popoldne (11:00–18:00).
 
 Strošek dela na uro: Valentina 18 €, Nejc 16 €, Manica 16 €, Martin (ovrednoteno prostovoljsko delo) 10 €. Ob prisotnosti V+N = 34 €/h, V+N+M = 50 €/h, z Martinom = 60 €/h.
 
@@ -134,15 +134,15 @@ Strošek dela na uro: Valentina 18 €, Nejc 16 €, Manica 16 €, Martin (ovre
 | 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 50,00 |
 | **Skupaj ponedeljek** | | **35,5** | **546,00** |
 
-**Torek – »Pohodniška dogodivščina«** – prostovoljec 10:00–17:00
+**Torek – »Pohodniška dogodivščina«** – prostovoljec 8:30–15:30
 
 | Opis aktivnosti in termin | Št. izvajalcev | Skupno ur | Strošek dela |
 |---|---|---|---|
 | 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, prosta igra z glasbenimi igrami. | 2 | 3 | 51,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), čas za zgodbo in glasbeni blok. | 3 | 4,5 | 75,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), čas za zgodbo in glasbeni blok. | 4 | 6 | 90,00 |
 | 10:00–15:00 Pohod na Rožnik s sadno malico in kosilom iz nahrbtnika: glasbene igre na poti, delavnica »prisluhni naravi« (zvoki okolja → ritmični vzorci), izdelava papirnatih letal. Prostovoljec spremlja skupino na zadnjem delu kolone. | 4 | 20 | 300,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 4 | 4 | 60,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 4 | 4 | 60,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). Prostovoljec do 15:30. | 4 | 3,5 | 55,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 50,00 |
 | **Skupaj torek** | | **35,5** | **546,00** |
 
 **Sreda – »Orkestrski dan«** – prostovoljec 10:00–17:00
