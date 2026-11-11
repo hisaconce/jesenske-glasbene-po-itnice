@@ -54,19 +54,16 @@ Prostovoljec se zavezuje, da bo:
 - organizaciji pred začetkom dela predložil potrdilo iz kazenske evidence, ki izkazuje, da ni bil pravnomočno obsojen za kaznivo dejanje zoper spolno nedotakljivost,
 - pravočasno sporočil morebitno odsotnost.
 
-## 6. člen – Brezplačnost
-Prostovoljsko delo se opravlja brez plačila; prostovoljcu se povrnejo le stroški iz 4. člena.
-
-## 7. člen – Varstvo osebnih podatkov
+## 6. člen – Varstvo osebnih podatkov
 Organizacija obdeluje osebne podatke prostovoljca izključno za namen izvajanja tega dogovora, vodenja evidence prostovoljskega dela in poročanja sofinancerju, skladno s Splošno uredbo o varstvu podatkov (GDPR) in ZVOP-2.
 
-## 8. člen – Prenehanje
+## 7. člen – Prenehanje
 Dogovor preneha z iztekom obdobja iz 2. člena. Vsaka stranka ga lahko odpove kadarkoli, s pisnim ali ustnim obvestilom drugi stranki.
 
-## 9. člen – Mladoletni prostovoljec
+## 8. člen – Mladoletni prostovoljec
 Če je prostovoljec mladoleten, je sestavni del tega dogovora pisno soglasje staršev ali zakonitih zastopnikov.
 
-## 10. člen – Končne določbe
+## 9. člen – Končne določbe
 Dogovor je sestavljen v dveh enakih izvodih, od katerih prejme vsaka stranka enega. Velja z dnem podpisa obeh strank.
 
 V Ljubljani, dne ____________
