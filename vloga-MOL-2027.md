@@ -115,71 +115,79 @@ Brezplačna mesta bodo jasno navedena na vseh promocijskih kanalih in v prijavne
 
 TEDEN: Od `25.10.2027` Do `29.10.2027` · Program bo za vse skupine enak: ☑ Da
 
-Varstvo traja od 7:00 do 17:00. Od 7:00 do 8:30 sta prisotni 2 izvajalki (Manica, Valentina), od 8:30 do 17:00 so prisotni vsi 3.
+Varstvo traja od 7:00 do 17:00 (v petek do 18:00). Od 7:00 do 8:30 sta prisotna 2 izvajalca (Valentina, Nejc), od 8:30 dalje vsi 3 (pridruži se Manica). Prostovoljec Martin je prisoten od 10:00 do 17:00 (v petek od 11:00 do 18:00), 7 ur na dan, skupaj 35 ur.
+
+Strošek dela na uro: Valentina 18 €, Nejc 16 €, Manica 16 €, Martin (ovrednoteno prostovoljsko delo) 10 €. Ob prisotnosti V+N = 34 €/h, V+N+M = 50 €/h, z Martinom = 60 €/h.
 
 **Ponedeljek – »Himna« (spoznavanje)**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur | Strošek dela |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Čas za zgodbo (prvi prizor) in spoznavne igre. | 3 | 3 | 48,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
-| 13:30–15:00 Izdelava zapestnic in obeskov, izdelava tablice zadolžitev. | 3 | 4,5 | 72,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 51,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 75,00 |
+| 10:00–11:30 Sadna malica, nato gibalni blok na prostem (poligon, igre z žogo, ristanc). Prostovoljec pomaga pri malici in vodi igre z žogo. | 4 | 6 | 90,00 |
+| 11:30–12:30 Čas za zgodbo (prvi prizor) in spoznavne igre. | 4 | 4 | 60,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 4 | 4 | 60,00 |
+| 13:30–15:00 Izdelava zapestnic in obeskov, izdelava tablice zadolžitev. | 4 | 6 | 90,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 4 | 4 | 60,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 4 | 4 | 60,00 |
+| **Skupaj ponedeljek** | | **35,5** | **546,00** |
 
 **Torek – »Pohodniška dogodivščina«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur | Strošek dela |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), čas za zgodbo in glasbeni blok. | 3 | 4,5 | 72,00 |
-| 10:00–15:00 Pohod na Rožnik s sadno malico in kosilom iz nahrbtnika: glasbene igre na poti, delavnica »prisluhni naravi« (zvoki okolja → ritmični vzorci), izdelava papirnatih letal. | 3 | 15 | 240,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, prosta igra z glasbenimi igrami. | 2 | 3 | 51,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve), čas za zgodbo in glasbeni blok. | 3 | 4,5 | 75,00 |
+| 10:00–15:00 Pohod na Rožnik s sadno malico in kosilom iz nahrbtnika: glasbene igre na poti, delavnica »prisluhni naravi« (zvoki okolja → ritmični vzorci), izdelava papirnatih letal. Prostovoljec spremlja skupino na zadnjem delu kolone. | 4 | 20 | 300,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 4 | 4 | 60,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 4 | 4 | 60,00 |
+| **Skupaj torek** | | **35,5** | **546,00** |
 
 **Sreda – »Orkestrski dan«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur | Strošek dela |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Čas za zgodbo in glasbeni blok z lastnimi glasbili. | 3 | 3 | 48,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
-| 13:30–15:00 Body percussion in izdelava preprostih glasbil iz odpadnih materialov. | 3 | 4,5 | 72,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, prosta igra z glasbenimi igrami. | 2 | 3 | 51,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 75,00 |
+| 10:00–11:30 Sadna malica, nato gibalni blok na prostem (poligon, igre z žogo, ristanc). | 4 | 6 | 90,00 |
+| 11:30–12:30 Čas za zgodbo in glasbeni blok z lastnimi glasbili (prostovoljec pomaga pri bobnih in kitari). | 4 | 4 | 60,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 4 | 4 | 60,00 |
+| 13:30–15:00 Body percussion in izdelava preprostih glasbil iz odpadnih materialov. | 4 | 6 | 90,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 4 | 4 | 60,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 4 | 4 | 60,00 |
+| **Skupaj sreda** | | **35,5** | **546,00** |
 
 **Četrtek – »Znaš igrati na glavnik?«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur | Strošek dela |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Čas za zgodbo in glasbeni blok. | 3 | 3 | 48,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
-| 13:30–15:00 Izdelava rekvizitov za nastop (kitke, metuljčki, klobučki) in vabil za starše. | 3 | 4,5 | 72,00 |
-| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 3 | 3 | 48,00 |
-| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 3 | 3 | 48,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, prosta igra z glasbenimi igrami. | 2 | 3 | 51,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 75,00 |
+| 10:00–11:30 Sadna malica, nato gibalni blok na prostem (poligon, igre z žogo, ristanc). | 4 | 6 | 90,00 |
+| 11:30–12:30 Čas za zgodbo in glasbeni blok. | 4 | 4 | 60,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 4 | 4 | 60,00 |
+| 13:30–15:00 Izdelava rekvizitov za nastop (kitke, metuljčki, klobučki) in vabil za starše. | 4 | 6 | 90,00 |
+| 15:00–16:00 Popoldanska malica, skupna refleksija dneva (kuverta s spominom). | 4 | 4 | 60,00 |
+| 16:00–17:00 Prosta igra na igrišču ali v prostoru, pospravljanje, odhod domov. | 4 | 4 | 60,00 |
+| **Skupaj četrtek** | | **35,5** | **546,00** |
 
 **Petek – »Nastopamo!«**
 
-| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur vseh izvajalcev | Strošek dela (16 €/h) |
+| Opis aktivnosti in termin | Št. izvajalcev | Skupno ur | Strošek dela |
 |---|---|---|---|
-| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, otroci izdelajo ime/kartico, prosta igra z glasbenimi igrami. | 2 | 3 | 48,00 |
-| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 72,00 |
-| 10:00–11:30 Sadna malica, nato obvezen gibalni blok na prostem (poligon, igre z žogo, ristanc). | 3 | 4,5 | 72,00 |
-| 11:30–12:30 Čas za zgodbo (zadnji prizor) in glasbeni blok – priprava na nastop. | 3 | 3 | 48,00 |
-| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 3 | 3 | 48,00 |
-| 13:30–15:00 Kuharska delavnica (sladica za pogostitev) in okrasitev prostora. | 3 | 4,5 | 72,00 |
-| 15:00–16:00 Malica, zaključna refleksija, zadnje priprave. | 3 | 3 | 48,00 |
-| 16:00–17:00 Zaključni nastop za starše, skupinska fotografija, pogostitev. | 3 | 3 | 48,00 |
+| 7:00–8:30 Jutranje varstvo in sprejem: starši podpišejo prisotnost, prosta igra z glasbenimi igrami. | 2 | 3 | 51,00 |
+| 8:30–10:00 Jutranji krog (načrt dneva, zadolžitve) in glasbeni blok. | 3 | 4,5 | 75,00 |
+| 10:00–11:00 Sadna malica in gibalni blok na prostem. | 3 | 3 | 50,00 |
+| 11:00–12:30 Čas za zgodbo (zadnji prizor) in glasbeni blok – vaja za nastop (prostovoljec pomaga pri ritmični spremljavi). | 4 | 6 | 90,00 |
+| 12:30–13:30 Kosilo (otroci pomagajo pri pripravi in pospravljanju), kratek čas tišine. | 4 | 4 | 60,00 |
+| 13:30–15:00 Kuharska delavnica (sladica za pogostitev) in okrasitev prostora. | 4 | 6 | 90,00 |
+| 15:00–16:00 Popoldanska malica in zaključna refleksija tedna. | 4 | 4 | 60,00 |
+| 16:00–17:00 Generalka in zadnje priprave na nastop. | 4 | 4 | 60,00 |
+| 17:00–18:00 Zaključni nastop za starše, skupinska fotografija, pogostitev, odhod domov. | 4 | 4 | 60,00 |
+| **Skupaj petek** | | **38,5** | **596,00** |
 
-**Skupaj neposredno delo: 142,5 ure · 2.280,00 €**
+**Skupaj neposredno delo: 180,5 ure · 2.780,00 €** (izvajalci 145,5 h / 2.430 € + prostovoljec 35 h / 350 €)
 
 ### 3. Izvajalci programa
 
@@ -210,7 +218,7 @@ Nejc Podobnik (glasbeni pedagog): vodja Glasbene hiše Čonce, kjer [od leta PRE
 *(1173 znakov)*
 
 ### 4. Prostovoljno delo
-4.1 `0` · 4.2 neposredno `0` / priprava `0`
+4.1 `1` · 4.2 neposredno `35` / priprava, organizacija in vrednotenje `3` · skupaj `38`
 
 ### 5. Obiski zunanjih institucij (max 1500)
 Lani ste vpisali »/«. Razpis 2027 zahteva obiske samo za poletni program, zato lahko vpišete »/« tudi letos ali spodnje besedilo.
