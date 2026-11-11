@@ -41,10 +41,10 @@ Organizacija se zavezuje, da bo:
 - prostovoljca pred začetkom seznanila s pravili varnega ravnanja z otroki, z obveznostmi ob zaznavi suma nasilja, zlorabe ali drugega neprimernega ravnanja ter s hišnim redom,
 - zagotovila varne pogoje dela in potrebno opremo,
 - prostovoljcu med programom zagotovila prehrano in pijačo,
-- prostovoljcu povrnila dogovorjene stroške prevoza v okviru mestnega potniškega prometa (LPP) na podlagi dokazil: ☐ da ☐ ne,
+- prostovoljcu povrnila stroške prevoza z javnim prevozom na lokacijo programa in nazaj na podlagi dokazil (vozovnic),
 - vodila evidenco opravljenih ur in prostovoljcu na njegovo željo izdala potrdilo o opravljenem prostovoljskem delu.
 
-Prostovoljec je za čas prostovoljskega dela zavarovan: ☐ v okviru zavarovanja organizacije ☐ ni posebej zavarovan (prostovoljec je s tem seznanjen).
+Organizacija prostovoljca za čas prostovoljskega dela posebej ne zavaruje, s čimer sta prostovoljec in njegov zakoniti zastopnik seznanjena.
 
 ## 5. člen – Obveznosti prostovoljca
 Prostovoljec se zavezuje, da bo:
@@ -55,7 +55,7 @@ Prostovoljec se zavezuje, da bo:
 - pravočasno sporočil morebitno odsotnost.
 
 ## 6. člen – Brezplačnost
-Prostovoljsko delo se opravlja brez plačila. Prostovoljec do plačila ni upravičen, upravičen je le do povračila stroškov iz 4. člena.
+Prostovoljsko delo se opravlja brez plačila; prostovoljcu se povrnejo le stroški iz 4. člena.
 
 ## 7. člen – Varstvo osebnih podatkov
 Organizacija obdeluje osebne podatke prostovoljca izključno za namen izvajanja tega dogovora, vodenja evidence prostovoljskega dela in poročanja sofinancerju, skladno s Splošno uredbo o varstvu podatkov (GDPR) in ZVOP-2.
